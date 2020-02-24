@@ -1,3 +1,0 @@
-[submodule "GitTestSubmodule"]
-	path = GitTestSubmodule
-	url = https://github.com/FIREoo/GitTestSubmodule.git
